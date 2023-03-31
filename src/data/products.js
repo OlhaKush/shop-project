@@ -12,9 +12,7 @@ const productsData = [
       { name: 'L', additionalPrice: 6 },
       { name: 'XL', additionalPrice: 8 }
     ],
-      currentSize: [
-          { name: 'S', additionalPrice: 0 },
-      ]
+      currentSize: { name: 'S', additionalPrice: 0 },
   },
 
   {
@@ -31,7 +29,6 @@ const productsData = [
       { name: 'XL', additionalPrice: 4 }
     ],
     currentSize: { name: 'S', additionalPrice: 0 },
-
   }
 ];
 
